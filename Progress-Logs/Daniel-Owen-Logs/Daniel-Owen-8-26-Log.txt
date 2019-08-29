@@ -1,0 +1,9 @@
+SARD Progress Log
+Daniel Owen
+August 26th - August 31st
+
+Hope to Accomplish:
+- Brief TA what progress was/wasn't made over the summer
+- Construct Schedule of what needs to be done on the project
+- Update Github Repo with Progress Logs and Code
+- Troubleshot Drone Issue, work with team members
